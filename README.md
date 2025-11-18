@@ -119,9 +119,7 @@ flipfinder-pro/
 ├── notebooks/
 │   └── flipfinder_pipeline.ipynb    # Complete ML pipeline
 ├── data/
-│   └── sample_data.csv              # Sample dataset
-├── models/
-│   └── gradient_boost_model.pkl     # Trained model
+│   └── hackathon_cars_data.csv.zip              # training dataset
 ├── dashboard/
 │   └── queries.sql                  # Dashboard SQL queries
 ├── requirements.txt                  # Python dependencies
