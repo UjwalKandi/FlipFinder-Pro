@@ -45,13 +45,13 @@ This project was built for the Databricks Free Edition Hackathon 2025, demonstra
 
 ## 🛠️ Technical Stack
 
-- **Platform**: Databricks Free Edition
+- **Platform**: [Databricks Free Edition](https://docs.databricks.com/aws/en/getting-started/free-edition)
 - **Languages**: Python, SQL
 - **ML Libraries**: Scikit-learn, MLflow
 - **Models Tested**: Random Forest (84.4%), Gradient Boosting (89.4%), Extra Trees (87.4%)
 - **Visualization**: Plotly, Matplotlib
 - **Data Processing**: Pandas, PySpark
-- **Dataset**: 20,000 sample from 3M Kaggle used cars dataset (66 features)
+- **Dataset**: 20,000 sample from 3M Kaggle [used cars dataset](https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset) (66 features)
 
 ## 🚀 Project Pipeline
 
@@ -175,7 +175,7 @@ This project is licensed under the Apache-2.0 License - see the LICENSE file for
 ## 🙏 Acknowledgments
 
 - Databricks for hosting the hackathon
-- Kaggle for the used cars [dataset](https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset)
+- Kaggle for the [used cars dataset](https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset)
 - The open-source community for amazing ML libraries
 
 ---
