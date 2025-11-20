@@ -1,4 +1,4 @@
-# 🚗 FlipFinder Pro - AI-Powered Car Flip Opportunity Finder
+ # 🚗 FlipFinder Pro - AI-Powered Car Flip Opportunity Finder
 
 [![Databricks](https://img.shields.io/badge/Databricks-Hackathon%202025-orange)](https://databricks.com)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
@@ -12,6 +12,12 @@ Every day, car dealers leave millions on the table because they can't analyze ma
 ## 💡 Solution
 
 **FlipFinder Pro** - An AI-powered system that analyzes 20,000 cars instantly and identifies exactly which ones will generate the highest profit when flipped. Our ML model achieves 89.4% accuracy in predicting car values and has identified over $20M in profit opportunities.
+
+<div style="width: 320px; height: 180px;">
+
+  <img src="dashboard/dash-2.png" style="width:100%; height:100%; object-fit: contain;" />
+
+</div> 
 
 ## 🏆 Databricks Free Edition Hackathon Submission
 
@@ -34,6 +40,12 @@ This project was built for the Databricks Free Edition Hackathon 2025, demonstra
 - **Total Profit Opportunity**: $20.15M in potential profits identified
 - **Hot Deals Count**: 1,187 must-buy opportunities (score > 80)
 
+<div style="width: 320px; height: 180px;">
+
+  <img src="dashboard/dash-1.png" style="width:100%; height:100%; object-fit: contain;" />
+
+</div> 
+
 ### Visualizations
 1. **Top 20 Leaderboard** - Ranked list of best opportunities for immediate action
 2. **Profit Distribution** - Shows profit spread across all vehicles
@@ -42,6 +54,12 @@ This project was built for the Databricks Free Edition Hackathon 2025, demonstra
 5. **Risk Distribution** - Portfolio balance across risk categories
 6. **Top Manufacturers** - Best brands for flipping opportunities
 7. **Days on Market Analysis** - Sale velocity by risk level
+
+<div style="width: 320px; height: 180px;">
+
+  <img src="dashboard/dash-3.png" style="width:100%; height:100%; object-fit: contain;" />
+
+</div> 
 
 ## 🛠️ Technical Stack
 
